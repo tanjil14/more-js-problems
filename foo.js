@@ -10,6 +10,6 @@ for(let i=1;i<=50;i++){
         console.log('bar');
     }
     else {
-        console.log(i)
+          console.log(i)
     }
 }
